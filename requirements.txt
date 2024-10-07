@@ -1,1 +1,3 @@
+atomicwrites
+base58
 sui_brownie
