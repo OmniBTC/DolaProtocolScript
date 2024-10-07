@@ -1,0 +1,7 @@
+dotenv: .env
+networks:
+  sui-mainnet:
+    node_url: https://fullnode.mainnet.sui.io:443
+sui_wallets:
+  from_mnemonic:
+    MAIN: ${MEM}
