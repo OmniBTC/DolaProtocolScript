@@ -1,6 +1,12 @@
 
 
-1. Clone
+1. Install
+
+   ~~~
+   pip install -r requirements.txt
+   ~~~
+
+2. Clone
 
    ~~~
    git clone https://github.com/OmniBTC/DolaProtocolScript.git
@@ -24,3 +30,4 @@
    ~~~
 
    
+
